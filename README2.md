@@ -26,9 +26,9 @@ Com a nova Lei do Cadastro Positivo, a partir de 09/07/2019 a entrada do consumi
 Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a necessidade de gerar valor através desses dados.
 
 
-| Attempt | #1 | #2 |
-| :---: | :---: | :---: |
-| Seconds | 301 | 283 |
+| Attempt | :---: | #1 |
+| 2| :---: | aaa |
+
 
  
 ![screenshot](https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/gif_git.gif)
