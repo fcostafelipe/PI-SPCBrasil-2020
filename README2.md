@@ -42,12 +42,16 @@ Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a 
 | :---: | 
 | Orientar fabricantes de veículos a ofertarem seus produtos de maneira mais assertiva de acordo com a demanda da região que deseja atuar. Deste modo, é possível otimizar seus processos, tais como, logística, produção, publicidade, redução de custos, localização e contratação de fornecedores das fabricantes de automóveis. |
 
-## Descrição do usuário.
+## Descrição dos usuários.
 
 Classificação do usuário da plataforma:
 - <strong>Representante Comercial - SPC Brasil</strong>: Responsável pela oferta do produto aos clientes
 do SPC Brasil. Auxiliará empresas que buscam por dados necessários para pesquisa de
 mercado no que tange ao financiamento de veículos. 
+
+## Instalador
+
+<a href="https://github.com/QuodJP/PI-SPCBrasil-2020/raw/sprint-6/setup/visualdata-setup.exe"> Download do instalador </a>
 
 
  
