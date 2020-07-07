@@ -26,9 +26,13 @@ Com a nova Lei do Cadastro Positivo, a partir de 09/07/2019 a entrada do consumi
 Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a necessidade de gerar valor através desses dados.
 
 
-| Attempt | :---: | #1 |
-| 2| :---: | aaa |
-
+| Attempt |
+| :---: | 
+| Devido ao cenário atual, a queda de veículos emplacados caiu 35,64%
+no acumulado anual, comparado ao ano anterior, de acordo com
+relatório de maio/2020 da Fenabrave.
+Fabricantes e Concessionárias precisam se adaptar aos novos
+desafios que o cenário atual exige.  |
 
  
 ![screenshot](https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/gif_git.gif)
