@@ -10,8 +10,9 @@
  <p align="center">
   <a href="#Motivação">Motivação</a> •
   <a href="#Descrição-dos-usuários">Descrição dos usuários</a> •
-  <a href="#Instalador-e-Requisitos">Instalador</a> •
+  <a href="#Instalador-e-Requisitos">Instalador e Requisitos</a> •
   <a href="#Como-instalar">Como instalar</a> •
+  <a href="#Demonstração">Demonstração</a> •
   <a href="#Equipe">Equipe</a>
  </p> <br>
  
@@ -57,15 +58,18 @@ O instalador do Visual Data instala todas as aplicações necessárias com exce�
 - <a href="https://powerbi.microsoft.com/pt-br/downloads/">Download do Power BI </a>
 
 ## Como instalar
+
+
+## Demonstração
  
 ![screenshot](https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/gif_git.gif)
 
 ## Equipe
 
 [*Charles Ramos (PO)*](https://github.com/charles-ramos)      
-[*João Pedro Santos (MASTER)*](https://github.com/QuodJP)      
-[*Beatriz Coutinho*](https://github.com/bibiacoutinho)      
-[*Felipe Costa*](https://github.com/fcostafelipe)      
-[*Daniel Oliveira*](https://github.com/danielsantosoliveira)                                                                           
-[*João Victor Gallina*](https://github.com/JVMedeiros)                                                                                 
-[*Marcelo Uchôas*](https://github.com/marcelouchoas)
+[*João Pedro Santos (TEAM DEV)*](https://github.com/QuodJP)      
+[*Beatriz Coutinho (TEAM DEV)*](https://github.com/bibiacoutinho)      
+[*Felipe Costa (TEAM DEV)*](https://github.com/fcostafelipe)      
+[*Daniel Oliveira (TEAM DEV)*](https://github.com/danielsantosoliveira)                                                                           
+[*João Victor Gallina (TEAM DEV)*](https://github.com/JVMedeiros)                                                                                 
+[*Marcelo Uchôas TEAM DEV*](https://github.com/marcelouchoas)
