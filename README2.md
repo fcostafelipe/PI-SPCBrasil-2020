@@ -9,12 +9,12 @@
  <br>
  
  <p align="center">
-  <a href="#Motivação">Motivação</a> •
-  <a href="#Descrição dos usuários">Descrição dos usuários</a> •
-  <a href="#Instalador">Instalador</a> •
-  <a href="#Como instalar">Como instalar</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
+  <a href="##Motivação">Motivação</a> •
+  <a href="##Descrição dos usuários">Descrição dos usuários</a> •
+  <a href="##Instalador">Instalador</a> •
+  <a href="##Como instalar">Como instalar</a> •
+  <a href="##related">Related</a> •
+  <a href="##license">License</a>
 </p>
  
  <br>
