@@ -30,13 +30,13 @@ Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a 
 | :---: | 
 | Devido ao cenário atual, a queda de veículos emplacados caiu 35,64% no acumulado anual, comparado ao ano anterior, de acordo com relatório de maio/2020 da Fenabrave. Fabricantes e Concessionárias precisam se adaptar aos novos desafios que o cenário atual exige. |
 
-<h2 = "center"> | Que afeta... |
+| Que afeta... |
 | :---: | 
-| Operadores de crédito, fabricantes e concessionárias de veículos. Há baixa demanda, diminuindo a quantidade de financiamentos e influenciando seus resultados financeiros.  | </h2>
+| Operadores de crédito, fabricantes e concessionárias de veículos. Há baixa demanda, diminuindo a quantidade de financiamentos e influenciando seus resultados financeiros.  | 
 
 | O impacto disso é... |
 | :---: | 
-| Déficit das vendas e da fabricação de veículos e geração de estoque |
+|                                       Déficit das vendas e da fabricação de veículos e geração de estoque                                                                   |
 
 | A solução seria... |
 | :---: | 
