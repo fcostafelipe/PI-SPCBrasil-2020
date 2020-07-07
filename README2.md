@@ -9,9 +9,9 @@
  <br>
  
  <p align="center">
-  <a href="#Motivação">Motivação</a> •
+  <a href="#motivacap">Motivação</a> •
   <a href="#Descrição dos usuários">Descrição dos usuários</a> •
-  <a href="#Instalador">Instalador</a> •
+  <a href="#instalador">Instalador</a> •
   <a href="#Como instalar">Como instalar</a> •
  </p>
  
