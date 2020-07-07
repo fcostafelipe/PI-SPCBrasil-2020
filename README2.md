@@ -5,7 +5,7 @@
   <br>
  </h1>
  
- <h2 align="center"> Data that makes your work simple. </h2>
+ <h4 align="center"> Data that makes your work simple. </h4>
  
  <br>
  <br>
