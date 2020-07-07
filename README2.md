@@ -22,4 +22,18 @@
  
  ## O que é nosso produto.
  
+Com a nova Lei do Cadastro Positivo, a partir de 09/07/2019 a entrada do consumidor pessoa física ou jurídica passou a ser automática, com o objetivo de facilitar, democratizar o acesso ao crédito e impulsionar a redução da taxa de juros e o desenvolvimento da economia.
+Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a necessidade de gerar valor através desses dados.
+
+
+|  O problema é...  |  Devido ao cenário atual, a queda de veículos emplacados caiu 35,64%
+no acumulado anual, comparado ao ano anterior, de acordo com
+relatório de maio/2020 da Fenabrave.
+Fabricantes e Concessionárias precisam se adaptar aos novos
+desafios que o cenário atual exige. |
+|  Que afeta...  |  Operadores de crédito, fabricantes e concessionárias de veículos.
+Há baixa demanda, diminuindo a quantidade de financiamentos e
+influenciando seus resultados financeiros. |
+
+ 
 ![screenshot](https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/gif_git.gif)
