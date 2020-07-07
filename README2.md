@@ -49,10 +49,10 @@ Classificação do usuário da plataforma:
 do SPC Brasil. Auxiliará empresas que buscam por dados necessários para pesquisa de
 mercado no que tange ao financiamento de veículos. 
 
-## Instalador
+## Instalador.
 
 <a href="https://github.com/QuodJP/PI-SPCBrasil-2020/raw/sprint-6/setup/visualdata-setup.exe"> Download do instalador </a>
 
-
+## Como instalar.
  
 ![screenshot](https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/gif_git.gif)
