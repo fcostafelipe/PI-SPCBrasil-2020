@@ -49,9 +49,17 @@ Classificação do usuário da plataforma:
 do SPC Brasil. Auxiliará empresas que buscam por dados necessários para pesquisa de
 mercado no que tange ao financiamento de veículos. 
 
-## Instalador
+## Instalador e Requisitos 
+
+- Microsoft Power BI >= 2.82
+- Python >= 3.8.2
+- Pandas >= 1.0.5
+- matplotlib >= 3.2.1
+
+O instalador do Visual Data instala todas as aplicações necessárias com exceção do Microsoft Powre BI.
 
 <a href="https://github.com/QuodJP/PI-SPCBrasil-2020/raw/sprint-6/setup/visualdata-setup.exe"> Download do instalador </a>
+<a href="https://powerbi.microsoft.com/pt-br/downloads/"> Download do Power BI </a>
 
 ## Como instalar
  
