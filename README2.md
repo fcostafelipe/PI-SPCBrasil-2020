@@ -5,8 +5,7 @@
   <br>
  </h1>
  
- <h3 align="center"> Data that makes your work simple. </h3>
- <br>
+ <h3 align="center"> Data that makes your work simple. </h3> <br>
  
  <p align="center">
   <a href="#Motivação">Motivação</a> •
@@ -14,10 +13,7 @@
   <a href="#Instalador-e-Requisitos">Instalador</a> •
   <a href="#Como-instalar">Como instalar</a> •
   <a href="#Equipe">Equipe</a>
- </p>
- 
- <br>
- <br>
+ </p> <br>
  
 ## Motivação
  
