@@ -58,7 +58,7 @@ mercado no que tange ao financiamento de veículos.
 
 O instalador do Visual Data instala todas as aplicações necessárias com exceção do Microsoft Powre BI.
 
-<a href="https://github.com/QuodJP/PI-SPCBrasil-2020/raw/sprint-6/setup/visualdata-setup.exe"> Download do instalador </a>
+<a href="https://github.com/QuodJP/PI-SPCBrasil-2020/raw/sprint-6/setup/visualdata-setup.exe"> Download do instalador </a> <br>
 <a href="https://powerbi.microsoft.com/pt-br/downloads/"> Download do Power BI </a>
 
 ## Como instalar
