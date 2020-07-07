@@ -20,7 +20,7 @@
  <br>
  <br>
  
- ## O que é nosso produto.
+## O que é nosso produto.
  
 Com a nova Lei do Cadastro Positivo, a partir de 09/07/2019 a entrada do consumidor pessoa física ou jurídica passou a ser automática, com o objetivo de facilitar, democratizar o acesso ao crédito e impulsionar a redução da taxa de juros e o desenvolvimento da economia.
 Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a necessidade de gerar valor através desses dados.
@@ -36,11 +36,19 @@ Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a 
 
 | O impacto disso é... |
 | :---: | 
-|                                       Déficit das vendas e da fabricação de veículos e geração de estoque                                                                   |
+| Déficit das vendas e da fabricação de veículos e geração de estoque |
 
 | A solução seria... |
 | :---: | 
 | Orientar fabricantes de veículos a ofertarem seus produtos de maneira mais assertiva de acordo com a demanda da região que deseja atuar. Deste modo, é possível otimizar seus processos, tais como, logística, produção, publicidade, redução de custos, localização e contratação de fornecedores das fabricantes de automóveis. |
+
+## Descrição do usuário.
+
+Classificação do usuário da plataforma:
+- <u>Representante Comercial - SPC Brasil</u>: Responsável pela oferta do produto aos clientes
+do SPC Brasil. Auxiliará empresas que buscam por dados necessários para pesquisa de
+mercado no que tange ao financiamento de veículos. 
+
 
  
 ![screenshot](https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/gif_git.gif)
