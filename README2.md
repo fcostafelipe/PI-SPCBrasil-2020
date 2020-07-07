@@ -45,7 +45,7 @@ Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a 
 ## Descrição do usuário.
 
 Classificação do usuário da plataforma:
-- <u>Representante Comercial - SPC Brasil</u>: Responsável pela oferta do produto aos clientes
+- <strong>Representante Comercial - SPC Brasil</strong>: Responsável pela oferta do produto aos clientes
 do SPC Brasil. Auxiliará empresas que buscam por dados necessários para pesquisa de
 mercado no que tange ao financiamento de veículos. 
 
