@@ -59,9 +59,7 @@ O instalador do Visual Data instala todas as aplicações necessárias com exce�
 
 ## Como instalar
 
-<img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/install_1.jpg" alt="passoapassoisntalacao"></a>
-
-
+- <a href="uia_install_readme.md">Clique aqui para acessar o guia passo a passo de instalação</a>
 
 ## Demonstração
  
