@@ -9,10 +9,10 @@
  <br>
  
  <p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
+  <a href="#Motivação">Motivação</a> •
+  <a href="#Descrição dos usuários">Descrição dos usuários</a> •
+  <a href="#Instalador">Instalador</a> •
+  <a href="#Como instalar">Como instalar</a> •
   <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
@@ -20,7 +20,7 @@
  <br>
  <br>
  
-## O que é nosso produto.
+## Motivação
  
 Com a nova Lei do Cadastro Positivo, a partir de 09/07/2019 a entrada do consumidor pessoa física ou jurídica passou a ser automática, com o objetivo de facilitar, democratizar o acesso ao crédito e impulsionar a redução da taxa de juros e o desenvolvimento da economia.
 Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a necessidade de gerar valor através desses dados.
@@ -42,17 +42,17 @@ Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a 
 | :---: | 
 | Orientar fabricantes de veículos a ofertarem seus produtos de maneira mais assertiva de acordo com a demanda da região que deseja atuar. Deste modo, é possível otimizar seus processos, tais como, logística, produção, publicidade, redução de custos, localização e contratação de fornecedores das fabricantes de automóveis. |
 
-## Descrição dos usuários.
+## Descrição dos usuários
 
 Classificação do usuário da plataforma:
 - <strong>Representante Comercial - SPC Brasil</strong>: Responsável pela oferta do produto aos clientes
 do SPC Brasil. Auxiliará empresas que buscam por dados necessários para pesquisa de
 mercado no que tange ao financiamento de veículos. 
 
-## Instalador.
+## Instalador
 
 <a href="https://github.com/QuodJP/PI-SPCBrasil-2020/raw/sprint-6/setup/visualdata-setup.exe"> Download do instalador </a>
 
-## Como instalar.
+## Como instalar
  
 ![screenshot](https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/gif_git.gif)
