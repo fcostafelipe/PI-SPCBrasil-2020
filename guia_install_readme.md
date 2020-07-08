@@ -7,3 +7,7 @@
 ## 2. "Requirements" Instalador do Pandas e "UpDate" para tratamento das planilhas .csv
 
 <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/install_requirements_update.jpg" alt="passoapassoisntalacao"></a>
+
+# 3. Abrindo o arquivo no Power BI e como atualizar as planilhas
+
+
