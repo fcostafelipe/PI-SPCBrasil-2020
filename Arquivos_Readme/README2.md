@@ -22,15 +22,11 @@ Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a 
 
 
 <h1 align="center">
-  <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/motivacao.jpg" alt="motivacao"></a>
+  <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/motivacao2.png" alt="motivacao"></a>
   <br>
   <br>
  </h1>
- 
- 
- | O impacto disto é... |
- | :---: |
- | <p align = "center"> Déficit das vendas e da fabricação de veículos e geração de estoque </p> |
+
 
 ## Descrição dos usuários
 
