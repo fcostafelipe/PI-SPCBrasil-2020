@@ -58,7 +58,7 @@ O instalador do Visual Data instala todas as aplicações necessárias com exce�
 
 ## Como instalar
 
-- <a href="guia_install_readme.md">Clique aqui para acessar o guia passo a passo de instalação</a>
+- <a href="guia_install_readme.md">Guia passo a passo de instalação</a>
 
 ## Demonstração
  
