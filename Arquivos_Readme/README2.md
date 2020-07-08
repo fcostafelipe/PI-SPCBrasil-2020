@@ -20,6 +20,11 @@
 Com a nova Lei do Cadastro Positivo, a partir de 09/07/2019 a entrada do consumidor pessoa física ou jurídica passou a ser automática, com o objetivo de facilitar, democratizar o acesso ao crédito e impulsionar a redução da taxa de juros e o desenvolvimento da economia.
 Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a necessidade de gerar valor através desses dados.
 
+<h1 align="center">
+  <img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/motivacao.jpg" alt="VisualData" width="300"></a>
+  <br>
+  <br>
+ </h1>
 
 | O Problema é... |
 | :---: | 
