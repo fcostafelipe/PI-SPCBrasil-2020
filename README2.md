@@ -14,7 +14,7 @@
   <a href="#Como-instalar">Como instalar</a> •
   <a href="#Demonstração">Demonstração</a> •
   <a href="#Equipe">Equipe</a>
- </p> <br>
+ </p> 
  
 ## Motivação
  
