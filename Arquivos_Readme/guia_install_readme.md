@@ -20,7 +20,7 @@
 <strong>4.</strong> "Processar"</br>
 <strong>5.</strong> "Sair"</br>
 
-<h1 align = "center"><img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/install_requirements_update.jpg" alt="passoapassoisntalacao"></a></h1>
+<h1 align = "center"><img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/install_requirements_update2.jpg" alt="passoapassoisntalacao"></a></h1>
 
 ## Abrindo o arquivo no Power BI e como atualizar as planilhas
 
