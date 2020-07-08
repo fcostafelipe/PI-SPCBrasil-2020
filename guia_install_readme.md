@@ -10,6 +10,6 @@
 
 # 3. Abrindo o arquivo no Power BI e como atualizar as planilhas
 
-<img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/install_powerbi.jpg" alt="powerbipassos"></a>
+<h1 align = "center"><img src="https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/install_powerbi.jpg" alt="powerbipassos"></a></h1>
 
 
