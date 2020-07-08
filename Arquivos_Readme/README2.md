@@ -26,7 +26,11 @@ Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a 
   <br>
   <br>
  </h1>
-
+ 
+ 
+ | O impacto disto é... |
+ | :---: |
+ | <p align = "center"> Déficit das vendas e da fabricação de veículos e geração de estoque </p> |
 
 ## Descrição dos usuários
 
