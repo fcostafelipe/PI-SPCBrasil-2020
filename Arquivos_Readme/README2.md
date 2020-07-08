@@ -62,7 +62,7 @@ O instalador do Visual Data instala todas as aplicações necessárias com exce�
 
 ## Demonstração
  
-![screenshot](https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/gif_git.gif)
+![screenshot](https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/gif_git.gif)
 
 ## Equipe
 
