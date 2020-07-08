@@ -37,6 +37,12 @@ Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a 
 | :---: | 
 | Orientar fabricantes de veículos a ofertarem seus produtos de maneira mais assertiva de acordo com a demanda da região que deseja atuar. Deste modo, é possível otimizar seus processos, tais como, logística, produção, publicidade, redução de custos, localização e contratação de fornecedores das fabricantes de automóveis. |
 
+<div text-align:center>
+| O impacto disso é... |
+| :---: | 
+| Déficit das vendas e da fabricação de veículos e geração de estoque |
+</div>
+
 ## Descrição dos usuários
 
 Classificação do usuário da plataforma:
