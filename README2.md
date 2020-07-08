@@ -28,11 +28,11 @@ Devido ao grande volume de novos dados inscritos no Cadastro Positivo, surgiu a 
 
 | Que afeta... |
 | :---: | 
-| Operadores de crédito, fabricantes e concessionárias de veículos. Há baixa demanda, diminuindo a quantidade de financiamentos e influenciando seus resultados financeiros. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | 
+| Operadores de crédito, fabricantes e concessionárias de veículos. Há baixa demanda, diminuindo a quantidade de financiamentos e influenciando seus resultados financeiros. | 
 
 | O impacto disso é... |
 | :---: | 
-| Déficit das vendas e da fabricação de veículos e geração de estoque |
+| Déficit das vendas e da fabricação de veículos e geração de estoque &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a |
 
 | A solução seria... |
 | :---: | 
