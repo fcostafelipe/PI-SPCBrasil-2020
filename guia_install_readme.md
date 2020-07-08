@@ -2,8 +2,8 @@
 
 ## Visual Data Setup
 
-- 1. Executar arquivo como administrador
-- 2. Selecionar o idioma e clicar em "OK"
+<strong>1.</strong> Executar arquivo como administrador
+<strong>2.</strong> Selecionar o idioma e clicar em "OK"
 - 3. Escolher o diretório (de preferência manter o diretório padrão.) e clicar em "Próximo >"
 - 4. "Próximo >"
 - 5. Escolher a opção "Criar um atalho na área de trabalho" e clicar em "Próximo >"
