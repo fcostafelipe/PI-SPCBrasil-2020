@@ -53,7 +53,7 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 
 ## Demonstração
  
-![screenshot](https://github.com/fcostafelipe/PI-SPCBrasil-2020/blob/master/Arquivos_Readme/gif_git.gif)
+![screenshot](https://imgur.com/a/JyRBcGn)
 
 ## Equipe
 
