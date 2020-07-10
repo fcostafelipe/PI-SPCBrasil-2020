@@ -53,7 +53,7 @@ O setup do Visual Data instala todas as aplicações necessárias com exceção 
 
 ## Demonstração
  
-![screenshot](https://imgur.com/a/JyRBcGn)
+![Alt text](https://imgur.com/a/JyRBcGn)
 
 ## Equipe
 
